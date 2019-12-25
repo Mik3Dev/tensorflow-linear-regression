@@ -1,0 +1,16 @@
+{
+  "name": "tensorflow_linear_regression",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^1.5.1",
+    "bootstrap": "^4.4.1"
+  }
+}
